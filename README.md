@@ -1,2 +1,2 @@
-936.141μs solid start :D
+896.000μs really decent
 A100 btw
